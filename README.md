@@ -17,11 +17,8 @@
 
 
 Bando de Dados:
-┌────────────────────────┐ 
-│                             │ 
-│-User: techstock_user        │
-│-Senha: Senai134             │
-│                             │ 
-└────────────────────────┘
+
+-User: techstock_user       
+-Senha: Senai134 
 
                                
