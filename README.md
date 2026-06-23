@@ -23,8 +23,8 @@ Bando de Dados:
 
                                
 Grupo: 
-Danielly G
-Emilly
-Caua
-Diogo
-Elizabete
+Danielly G,
+Emilly,
+Cauã,
+Diogo,
+Elizabete.
